@@ -1,0 +1,50 @@
+.logo {
+  font-weight: bolder;
+  font-size:xx-large;
+}
+
+.header-buttons {
+  justify-self: center;
+}
+.after-carousel {
+  text-align: center;
+  background-color: #ED554B;
+  color: white;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.projects {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.projects h6 {
+  color: grey;
+}
+
+.articles h6 {
+  color: grey;
+}
+
+.title {
+  font-weight: bolder;
+}
+.articles {
+  margin-bottom: 40px;
+}
+
+.footer {
+  background-color: #3B3B3B;
+  border-top: solid 5px #ED554B;
+}
+.footer-cards div{
+  background-color: #3B3B3B;
+  border-color: transparent;
+  color: white;
+}
+
+.card-text-footer {
+  color: rgb(160, 160, 160);
+  font-size: small;
+}
